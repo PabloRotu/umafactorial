@@ -1,8 +1,9 @@
 # umafactorial
+//ee//
 import java.util.Scanner;
 
 public class factorial {
-	
+
 	public static void main(String []args) {
 		Scanner scanInput = new Scanner(System.in);
 		System.out.print("Introduzca un numero: ");
